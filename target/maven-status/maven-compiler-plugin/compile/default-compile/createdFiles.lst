@@ -1,0 +1,9 @@
+com\crudalumnos\dao\AlumnoDAO.class
+com\crudalumnos\servlets\SvAlumnos.class
+com\crudalumnos\models\Materia.class
+com\crudalumnos\servlets\SvMaterias.class
+com\crudalumnos\dao\InscripcionDAO.class
+com\crudalumnos\models\Alumno.class
+com\crudalumnos\dao\MateriaDAO.class
+com\crudalumnos\models\Inscripcion.class
+com\crudalumnos\servlets\SvInscripciones.class
